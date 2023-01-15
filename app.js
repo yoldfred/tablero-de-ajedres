@@ -1,4 +1,4 @@
-alert('este es un programa para crear un patron "ajedres" con cualquier nùmero colocado a continuacion')
+alert('este es un programa para crear un patron "ajedres" con cualquier nùmero colocado a continuacion');
 let input = Number(prompt('inserte el numero de filas y columnas'));
 let color =' ';
 
