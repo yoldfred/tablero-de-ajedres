@@ -1,0 +1,9 @@
+body{
+    min-height:100vh;
+    padding:0;
+    color: azure;
+    background: linear-gradient(0deg,#111,#333);
+    /* background-repeat: no-repeat; */
+    background-size:cover;
+    letter-spacing: 2px;
+}
